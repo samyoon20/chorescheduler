@@ -1,4 +1,4 @@
-# finalproj
+# chore scheduler!
 
 A new Flutter project.
 
